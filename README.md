@@ -1,3 +1,4 @@
+This update is not an official update. 
 This program will enhance the intelligence of the computer in the Submarine Titans game. 
 The first version of this program will be launched at the end of April 2021. 
 
