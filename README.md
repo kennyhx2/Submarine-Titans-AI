@@ -2,7 +2,7 @@ This program will enhance the intelligence of the computer in the Submarine Tita
 The first version of this program will be launched at the end of April 2021. 
 
 ST players can download the update. The main contents of this update are as follows:
-1. Significantly enhance the computer intelligence of the SI family;
+1. Significantly enhance the computer intelligence of the SI race;
 2. Restored the flagship protection type game;
 3. The number and types of fleets of various ethnic groups have been adjusted;
 4. The computer's attack strategy has been optimized, and the computer is more intelligent;
