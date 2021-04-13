@@ -2,6 +2,9 @@ This update is not an official update. This program will enhance the intelligenc
 
 Update:
 1.Significantly enhance the computer intelligence of the SI race;
-2.Restored the flagship protection type game;
-3.The computer's attack strategy has been optimized, and the computer is more intelligent;
-4.The technology of weapons of mass destruction is temporarily disabled, because the computer cannot use this function, for the sake of technological balance).
+2.
+3.Restored the flagship protection type game;
+4.
+5.The computer's attack strategy has been optimized, and the computer is more intelligent;
+6.
+7.The technology of weapons of mass destruction is temporarily disabled, because the computer cannot use this function, for the sake of technological balance).
