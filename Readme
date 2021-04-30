@@ -1,19 +1,8 @@
-Submarine Titans computer intelligent AI update instructions:
+This project is mainly to modify the computer AI in Submarine Titans "SOLO BATTLES" type games and "NETWORK GAME" type games to make the computer more intelligent.
 
-This update is applicable to SOLO GAME-BATTLES or NETWORK GAME type games, but not to SOLO GAME-CAMPAIGN (Missions) type games.
-Update method:
-1. Close the running Submarine Titans game;
-2. Find the'system' folder in the program folder of Submarine Titans, such as "Submarine Titans\system", and back up the two files Strategs.DKD and Strategs.DKX to other folders;
-3. Just overwrite these two files with the same name of the AI file of the update package. If you need to uninstall the update, just overwrite the 2 backup files to the'system' folder. 
+Please click the release link for details 
+1. AI update
+https://github.com/kennyhx2/Submarine-Titans-AI/releases/tag/AI_1.16
 
--------------------------------------------------
-update content:
-04/30/2021:
-1. Restored the flagship protection type game in "SOLO GAME". This type was disabled in the original version of ‘SOLO GAME’. However, the flagship currently has no special capabilities (the flagship has the ability to summon fleets in future updates).
-2. Weapons of mass destruction is no longer a weapon of computer AI, players can still use this weapon (except for death battle type games).
-3. Added DEATH MATCH type games. Everyone will get huge resources at the beginning of the game, including METAL (800,000), CORIUM (200,000), GOLD (40,000), SILICON (800,000).
-4. The computer can use teleport technology for multiple fleets. This technology can transmit a considerable number of fleets to the enemy area at the same time, complete some battles, and then teleport back to the base. Players cannot use this technology, and must use related buildings to transmit one unit at a time.
-5. The no-resource mode has been modified, and the resources given by the system each time are much more than the original version.
-6. Prevent cheating. Players cannot turn on the map full display mode through the FOW command (it will still not work if the map is turned on at the beginning). The resources added by the player using the CORIUM/METAL/GOLD/SILICON/EXITON commands will be returned, and the resources will not be added to the player interface. The player's use of the TECH command will cause everyone's technology to complete all upgrades at the same time, not just the player's technology.
-7. The computer will capture the enemy's buildings, and the computer will study the enemy's technology (the technology between BO and WS). If the enemy's technology is obtained, the computer will produce related buildings or fleets by itself.
-8. The computer’s attack strategy has been adjusted, and there will no longer be a situation where the computer will be ready to attack the player if it does not have a sufficient number of troops to attack a certain target regardless of the large area being wiped out in the middle. The computer will give priority to the production of the fleet, and build large-scale defense facilities to prevent players from attacking. 
+2. Sound update
+https://github.com/kennyhx2/Submarine-Titans-AI/releases/tag/sound_0.2
